@@ -7,7 +7,7 @@
 ## Introduction
 이 프로젝트는 GAN 모델을 바탕으로 StarGAN이라는 머신러닝 모델을 구현하였습니다. 이는 한가지의 응용이 아닌 여러 응용(머리색 변화, 표정 변화 등)을 하나의 모델로 학습시키는 것이 가능하며 이를 통하여 여러 응용을 경험하기에 적합하고 영상처리 관련 머신러닝 모델 중 가장 흥미가 끌리는 주제였기에 이를 주제로 선정하여 프로젝트를 진행하였습니다.
 
-<p align="center"><img width="100%" src="jpg/main.jpg" /></p>
+<p align="center"><img width="100%" src="main.jpg" /></p>
 
 ### Project Summary
 1) 논문 저자들이 제공한 pretrained model 파일을 활용하여 다양한 응용의 weight 등의 정보를 사용한다.
