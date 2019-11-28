@@ -21,7 +21,7 @@
 
 
 ## Dependencies
---------------------------------------------------------------------------------
+
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0+](http://pytorch.org/)
 * [TensorFlow 1.3+](https://www.tensorflow.org/) (optional for tensorboard)
@@ -31,7 +31,7 @@
 
 
 ## Project contents
---------------------------------------------------------------------------------
+
 * Project Data (Google Drive)
  - 코드
  - pretrained model
@@ -45,7 +45,7 @@
 
 
 ## Usage
---------------------------------------------------------------------------------
+
 ### Step 1. Clone the repository
 This repository includes all 
 ```bash
