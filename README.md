@@ -47,17 +47,19 @@
 ## Usage
 
 ### Step 1. Download the full file
-This google share drive includes all codes and data
-Available for HGU students only (access through @handong.edu account)
-해당 구글 드라이브는 모든 코드와 데이터를 포함하고있습니다.
+This google share drive includes all codes and data<br/>
+Available for HGU students only (access through @handong.edu account)<br/>
+해당 구글 드라이브는 모든 코드와 데이터를 포함하고있습니다.<br/>
 한동대학교 학생들만 접근 가능합니다. (학교 계정으로 접속해주시기 바랍니다.)
 ```bash
 https://drive.google.com/drive/folders/14al3QKQjvuurVd-RkFSgdB8SneiFQod2?usp=sharing
 ```
 
+<br/>
+
 ### Step 2. Environment setting
-Download the dependencies suggested above.
-위에 명시된 dependencies를 다운받아주세요. (환경설정 해주기)
+Download the dependencies suggested above.<br/>
+위에 명시된 dependencies를 다운받아주세요. (환경설정 해주기)<br/>
 (anaconda가 설치되어있는 상태를 가정함)
 
 ================== Mac ==================
@@ -71,6 +73,8 @@ Download the dependencies suggested above.
 2. conda install pytorch
 3. pip install torchvision
 4. pip install tensorflow
+
+<br/>
 
 ### Step 3. Run pretrained model (test)
 
