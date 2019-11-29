@@ -10,6 +10,9 @@
 <p align="center"><img width="100%" src="main.jpg" /></p>
 
 ### Project Summary
+
+<p align="center"><img width="100%" src="stargan_team3.png" /></p>
+
 1) 논문 저자들이 제공한 pretrained model 파일을 활용하여 다양한 응용의 weight 등의 정보를 사용한다.
 
 2) 각 응용에 대한 정보를 활용하기 위하여 input 영상의 size 조절, 인물 위치 등 제약조건을 만족시켜 준다.
