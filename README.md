@@ -33,9 +33,9 @@
 ## Project contents
 
 * Project Data (Google Drive)
- - 코드
- - pretrained model
- - 데이터집합
+  - 코드
+  - pretrained model
+  - 데이터집합
 * 실행방법
 * 프로젝트 유튜브영상 링크
 * 코드 설명
@@ -46,16 +46,37 @@
 
 ## Usage
 
-### Step 1. Clone the repository
-This repository includes all 
+### Step 1. Download the full file
+This google share drive includes all codes and data
+Available for HGU students only (access through @handong.edu account)
+해당 구글 드라이브는 모든 코드와 데이터를 포함하고있습니다.
+한동대학교 학생들만 접근 가능합니다. (학교 계정으로 접속해주시기 바랍니다.)
 ```bash
-$ git clone https://github.com/pjh1023/TeamProject-Team3-StarGAN.git
-$ cd StarGAN/
+https://drive.google.com/drive/folders/14al3QKQjvuurVd-RkFSgdB8SneiFQod2?usp=sharing
 ```
 
+### Step 2. Environment setting
+Download the dependencies suggested above.
+위에 명시된 dependencies를 다운받아주세요. (환경설정 해주기)
+(anaconda가 설치되어있는 상태를 가정함)
 
+================== Mac ==================
+1. activate 가상환경이름 - (conda 가상환경에서 설치하려면 / optional)
+2. brew install wget
+3. conda install pytorch torchvision -c pytorch
+4. pip install tensorflow
 
+================== Windows ==================
+1. activate 가상환경이름 - (conda 가상환경에서 설치하려면 / optional)
+2. conda install pytorch
+3. pip install torchvision
+4. pip install tensorflow
 
+### Step 3. Run pretrained model (test)
+
+```bash
+$ python main.py --mode test --dataset CelebA --image_size 256 --selected_attrs Black_Hair Blond_Hair Brown_Hair Male Young --model_save_dir=stargan_celeba_256/models --result_dir=stargan_celeba_256/results
+```
 
 
 
