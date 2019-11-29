@@ -35,13 +35,16 @@
 
 ## Project contents
 
+* 이론 설명
+* 코드 설명
+* 실행방법
+
 * Project Data (Google Drive)
   - 코드
   - pretrained model
   - 데이터집합
-* 실행방법
 * 프로젝트 유튜브영상 링크
-* 코드 설명
+
 
 
 <br/>
