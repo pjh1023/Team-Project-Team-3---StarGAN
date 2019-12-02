@@ -44,6 +44,8 @@
   - pretrained model
   - 데이터집합
 * 프로젝트 유튜브영상 링크
+  - https://youtu.be/qndhOzTewk0 (video 1)
+  - https://youtu.be/W8OTKgyiabc (video 2)
 
 
 
